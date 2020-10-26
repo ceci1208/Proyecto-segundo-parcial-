@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../MXN Actor Messages/Init Msg/Init Msg.lvclass"/>
+		<Item Name="Process Coins Msg.lvclass" Type="LVClass" URL="../../MXN Actor Messages/Process Coins Msg/Process Coins Msg.lvclass"/>
 	</Item>
 	<Item Name="MXN Actor.lvclass" Type="LVClass" URL="../MXN Actor.lvclass"/>
 </Library>
