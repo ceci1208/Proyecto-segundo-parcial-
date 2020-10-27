@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../Quetzal Actor Messages/Init Msg/Init Msg.lvclass"/>
+		<Item Name="Update coins Msg.lvclass" Type="LVClass" URL="../../Quetzal Actor Messages/Update coins Msg/Update coins Msg.lvclass"/>
 	</Item>
 	<Item Name="Quetzal Actor.lvclass" Type="LVClass" URL="../Quetzal Actor.lvclass"/>
 </Library>
